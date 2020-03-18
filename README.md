@@ -13,13 +13,16 @@
 官网：http://www.graphicsmagick.org/download.html
 测试是否成功安装，打开安装目录，双击gm.exe,黑色窗口一闪而过
 
+
 2.下载项目
 
 git clone 项目路径
 
+
 3.安装依赖
 
 npm install
+
 
 4.目录结构
 
@@ -30,6 +33,7 @@ index.html /*网页模板*/
 package.lock.json /*项目配置文件*/
 
 一般把需要生成网页的图替换demo.png，修改config.json中的配置即可。
+
 
 5.生成网页
 
